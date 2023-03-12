@@ -1,0 +1,31 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 20px 0;
+    padding-bottom: 20px;
+}
+.product>.pro-name>h3{
+    
+    color: blue;
+    font-size: 18px;
+    font-weight: 400;
+}
+.pro-name{
+    padding-left: 20px;
+}
+.pro-name>button{
+    width: 230px;
+    height:30px ;
+    background-color: rgb(237, 195, 57);
+    border-radius: 5px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
